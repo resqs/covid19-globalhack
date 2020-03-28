@@ -1,5 +1,7 @@
 # covid19-globalhack
-Idea bank for educational games about COVID-19, pandemics (endemics, outbreaks, etc), germs (good/bad germs, germ warfare, germophobia)
+Idea bank for educational games about COVID-19, pandemics (endemics, outbreaks, etc), germs (good/bad germs, germ warfare, germophobia). 
+
+If you'd like to add your idea, fork the repo, and submit a pull request with your addition.  
 
 ***Objective: Build reality-based strategy games for kids to prepare them when it is their turn to run the World.***
 
@@ -10,7 +12,7 @@ Quotes from Ender's Game
 > Ender Wiggin: Fifty years ago an alien force known as the Formics attacked Earth. Tens of millions died. It was only through the sacrifice of our greatest commander that we avoided total annihilation. We've been preparing for them to come back ever since. The International Fleet decided that the world's smartest children are the planet's best hope. Raised on war games, their decisions are intuitive, decisive, fearless. I am one of those recruits.
 > From <https://www.imdb.com/title/tt1731141/>
 
-### Game Features:
+### Game Features (Long Term Goals):
 - Build and run families, governments, towns, cities, counties, states, countries.
 - Plan and build infrastructures that are disaster ready.
 - Mimic the real world.
@@ -32,14 +34,15 @@ Quotes from Ender's Game
 
 
 
-## Hospital Systems
-Hospital Congestion - South Korea method from NY Times article (see below)<br />
+## 1st Game Goal: Reduce Strain on Hospital Systems
+*Hospital Congestion - South Korea method from NY Times article (see below)*<br />
 1. intervene before catastrophe<br />
 2. test frequently and safely<br />
-3. contact tracing, isolation, and monitoring4. public alerts (including info about contact tracing), public help, consistent government messaging 
+3. contact tracing, isolation, and monitoring<br />
+4. public alerts (including info about contact tracing), public help, consistent government messaging 
 
 ### Potential issues with mass adoption include: 
-1. privacy rights - USA medical privacy rights could prevent public alerts as detailed as S. Korea's<br />
+1. privacy rights - USA medical privacy rights could prevent public alerts as detailed as S. Korea's, though anonymized data could minimize the privacy rights issues<br />
 2. costs of tests - USA requires the citizens to pay for tests, S. Korea has national health & special rules for COVID tests<br />
 3. will of governments - slow-acting without consistent direction for citizenry vs. immediate action with consistent direction<br />
 4. will of citizenry - threat of outbreak must be taken seriously; however, homelessness kills which is why low income workers go to work sick - how to balance?<br />
@@ -55,4 +58,5 @@ Families, Couples, Individuals<br />
 ### Resources
 https://covid-global-hackathon.devpost.com/details/resources<br />
 https://www.nytimes.com/2020/03/23/world/asia/coronavirus-south-korea-flatten-curve.html<br />
+https://nam.edu/duty-to-plan-health-care-crisis-standards-of-care-and-novel-coronavirus-sars-cov-2/<br />
 
