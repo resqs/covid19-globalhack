@@ -55,7 +55,7 @@ Today, hospitals around the world are experiencing surge issues as the number of
 4. will of citizenry - threat of outbreak must be taken seriously; however, homelessness kills which is why low income workers go to work sick - how to balance?<br />
 
 ### Resources - NEWS & Science
-https://covid-global-hackathon.devpost.com/details/resources (COVID-19 Global Hackathon Resources)<br />
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports<br />
 https://www.nytimes.com/2020/03/23/world/asia/coronavirus-south-korea-flatten-curve.html (S. Korean Method to Flatten Curve<br />
 https://nam.edu/duty-to-plan-health-care-crisis-standards-of-care-and-novel-coronavirus-sars-cov-2/ (healthcare crisis SOP)<br />
 https://www.coronavirus.gov/ (USA Federal Information Portal)<br />
@@ -63,6 +63,7 @@ https://floridahealthcovid19.gov/health-care-providers/<br />
 https://sites.google.com/view/createunity/profam-direct<br />
 
 ### Resources - Tech
+https://covid-global-hackathon.devpost.com/details/resources (COVID-19 Global Hackathon Resources)<br />
 https://www.youtube.com/watch?v=gxAaO2rsdIs (simulating anepidemic)<br />
 https://www.youtube.com/watch?v=nsVD8VPh96w (simulating foraging decisions)<br />
 https://www.w3.org/community/ar/demos-and-projects/ (AR demos and projects, includes links to techs used)<br />
