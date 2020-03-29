@@ -3,6 +3,10 @@
 Problem: rapid spread of COVID-19 means influx of patients in hospitals<br />
 Solution: teach kids/people about hospitals, hospital limitations, home remedies (for minor ailments), encourage hygiene/sanitation as prevention AND do it in an augmented reality game BECAUSE preventing hospital congestion right now has real meaning <br /> 
 
+Proof-of-Concept: https://faucet.zeemz.xyz/pandemicpatch/index.html
+Demo Details:
+Pandemic Patch as part of a choose-your-own-adventure faucet. When a player triggers Pandemic Patch, they're presented with four options. Each option leads to a different result for the player and every decision will teach the player how to improve their decisions. 
+
 ## 1st Game Goal: Reduce Strain on Hospital Systems
 *Prevent Hospital Congestion*<br />
 1. intervene before catastrophe<br />
