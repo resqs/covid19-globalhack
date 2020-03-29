@@ -9,16 +9,16 @@ Today, hospitals around the world are experiencing surge issues as the number of
 To reach the goal of building a POC in days, we're adapting [ZEEMZ: Quicksand Faucet](https://faucet.zeemz.xyz), a Choose-Your-Own-Adventure cryptocurrency faucet, into [ZEEMZ: Pandemic Patch Faucet](https://faucet.zeemz.xyz/pandemicpatch/index.html). In this scenario, a virus gets into the players atmosuit, the player is immediately informed, and given four choices each of which will trigger consequences (rewards/fines). Every consequence will also include information on improving the player's responses in an emergency.
 
 **Choices**
-- choice #1 - panic
-- choice #2 - not panic, ignore warning, continue with mission, return to base when done
-- choice #3 - not panic, return to base, report incident
-- choice #4 - not panic, remain isolated, report incident
+1. panic
+2. not panic, ignore warning, continue with mission, return to base when done
+3. not panic, return to base, report incident
+4. not panic, remain isolated, report incident
 
 **Consequences**
-- panic (1) - 1 fine, panicker 
-- not panic (2) - 1/4 reward, 3/4 fine, superspreader
-- not panic (3) - 1/2 reward, 1/2 fine, spreader
-- not panic (4) - 1 reward, self-isolator
+1. panic - 1 fine, panicker 
+2. not panic - 1/4 reward, 3/4 fine, superspreader
+3. not panic - 1/2 reward, 1/2 fine, spreader
+4. not panic - 1 reward, self-isolator
 
 **Information**
 1. Triggers panicker with tips to prevent & to reduce panic
